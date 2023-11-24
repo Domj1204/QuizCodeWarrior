@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#highscores-btn {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+#quiz-container {
+    width: 600px;
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
+
+.btn-grid button {
+    margin: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#timer {
+    margin-top: 20px;
+}
+
+#feedback {
+    margin-top: 10px;
+    font-size: 1.2em;
+}
+
+#highscores-container {
+    text-align: left;
+}

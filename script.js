@@ -16,6 +16,7 @@ const highscoresContainer = document.getElementById('highscores-container');
 const highscoresList = document.getElementById('highscores-list');
 
 function startGame() {
+    console.log("Let the games begin!")
     document.getElementById('start-btn').classList.add('hide');
     questionContainerElement.classList.remove('hide');
     currentQuestionIndex = 0;
@@ -117,6 +118,7 @@ function selectAnswer(e) {
 }
 
 function endGame() {
+    console.log("This is the END!")
     clearInterval(timerInterval);
     questionContainerElement.classList.add('hide');
     scoreForm.classList.remove('hide');

@@ -10,7 +10,6 @@ Here is the link to the deployed website: https://domj1204.github.io/QuizCodeWar
 - [Credits](#credits)
 - [License](#license)
 - [Features](#features)
-- [How to Contribute](#howtocontribute)
 - [Test](#test)
 
 ## Usage
@@ -45,16 +44,6 @@ I followed these two resources for guidance and reference:
 - Immediate feedback for each answer.
 - High score tracking with local storage.
 - Reset high score functionality.
-
-## How to Contribute
-Contributions to the JavaScript Quiz are welcome! To contribute:
-
-- Fork the repository.
-- Create a new branch for your feature (git checkout -b feature/AmazingFeature).
-- Commit your changes (git commit -m 'Add some AmazingFeature').
-- Push to the branch (git push origin feature/AmazingFeature).
-- Open a pull request.
-- For more detailed instructions, follow the Contributor Covenant.
 
 ## Tests
 To run tests on this application:

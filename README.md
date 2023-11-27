@@ -1,8 +1,9 @@
 # QuizCodeWarrior
+
 ## Description
 This project is a dynamic and interactive web-based JavaScript quiz designed to test users on their JavaScript fundamentals. The motivation behind creating this quiz was to provide a fun and engaging way for learners to test their JavaScript knowledge. This project addresses the need for an interactive learning tool in the field of web development education. Building this project helped me to deepen my understanding of JavaScript, particularly in handling DOM manipulation and event-driven programming.
 
-Here is the link to the deployed website:
+Here is the link to the deployed website: https://domj1204.github.io/QuizCodeWarrior/
 
 ## Table of Contents
 - [Usage](#usage)
@@ -48,12 +49,12 @@ I followed these two resources for guidance and reference:
 ## How to Contribute
 Contributions to the JavaScript Quiz are welcome! To contribute:
 
-Fork the repository.
-Create a new branch for your feature (git checkout -b feature/AmazingFeature).
-Commit your changes (git commit -m 'Add some AmazingFeature').
-Push to the branch (git push origin feature/AmazingFeature).
-Open a pull request.
-For more detailed instructions, follow the Contributor Covenant.
+- Fork the repository.
+- Create a new branch for your feature (git checkout -b feature/AmazingFeature).
+- Commit your changes (git commit -m 'Add some AmazingFeature').
+- Push to the branch (git push origin feature/AmazingFeature).
+- Open a pull request.
+- For more detailed instructions, follow the Contributor Covenant.
 
 ## Tests
 To run tests on this application:
